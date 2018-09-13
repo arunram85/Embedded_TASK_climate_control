@@ -37,7 +37,7 @@ Programmable Features :
 | Arduino Uno (Rev3)                      |        1         |
 | USB cable                               |        1         |
 | Bread board                             |        1         |
-| Wires , jumpers                         |     bunch        |
+| Wires , jumpers                         |     bunch of     |
 | Potentiometer                           |        1         |
 | Temperature Sensor  (DFR0024 DFRobot )  |        1         |
 | Servo motor                             |        1         |
